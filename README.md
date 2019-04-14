@@ -1,2 +1,4 @@
 # Lab-Movidius
-Since it easy to google every task please please please try to undestand what's going on. The "just answer" thing will be not counted, make sure to present derivation of your solution. It is absolutely OK if you found an answer on web then just exercise in copying it into here. A good way to derive solutions for these tasks is to derive it for single elements and then generalize to the resulting matrix/vector.
+In the lab work you will get familiar with Raspberry Pi and its environment. The purpose of the lab work is to create real-time object detection algorithm for machine vision, which will use external GPU. We will work in Raspbian Stretch operational system and use Python3 for coding. You will also get familiar with Linux command line, basics of 'opencv', 'numpy', 'mvncapi' libraries.
+
+## Raspberry Warm-Up
