@@ -2,13 +2,15 @@
 In the lab work you will get familiar with Raspberry Pi and its environment. The purpose of the lab work is to create real-time object detection algorithm for machine vision, which will use external GPU. We will work in Raspbian Stretch operational system and use Python3 for coding. You will also get familiar with Linux command line, basics of `opencv`, `numpy`, `mvncapi` libraries.
 
 ## Raspberry Warm-Up
+Navigation
 Ctrl+alt+T
 `cd`
 `ls`
 `pwd`
-navigate to realtime-object-detection
+navigate to realtime-object-detection; how many files do you have inside
 make sure you are in this directory
 
+Making and moving files
 `nano`
 `mkdir`
 `rmdir` or `rm -rf`
@@ -27,6 +29,7 @@ how much memory do you have?
 `ifconfig`
 `ping`
 `killall`
+Ctrl+C
 ping yandex in one terminal and check the status in another terminal; kill ping
 
 `python --help; man python`
@@ -45,3 +48,17 @@ short program in python, which writes the version of the lib tqdm
 `git clone`
 
 ## "Hello Worlds!"
+cv2
+image
+tqdm
+video
+camera
+
+color spaces
+resize
+rectangle
+aim
+
+mvnc
+Hello world
+make predictions for different images
